@@ -1,4 +1,5 @@
-Pertemuan 1: Pengantar Data Analytics Essentials
+#Pertemuan 1
+>Pengantar Data Analytics Essentials
 Pertemuan pertama berisi tentang perkenalan, gambaran umum materi, penilaian, metode belajar, dan materi pertama.
 
 # 1. Data 📊
