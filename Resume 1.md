@@ -1,5 +1,3 @@
-Tentu, ini teksnya dalam format Markdown.
-
 Pertemuan 1: Pengantar Data Analytics Essentials
 Pertemuan pertama berisi tentang perkenalan, gambaran umum materi, penilaian, metode belajar, dan materi pertama.
 
