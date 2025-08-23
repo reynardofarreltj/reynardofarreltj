@@ -1,8 +1,8 @@
 Pertemuan 1: Pengantar Data Analytics Essentials
 Pertemuan pertama berisi tentang perkenalan, gambaran umum materi, penilaian, metode belajar, dan materi pertama.
 
-1. Data 📊
-Data adalah fakta dan statistik yang dikumpulkan untuk dianalisis atau digunakan sebagai referensi.
+# 1. Data 📊
+>Data adalah fakta dan statistik yang dikumpulkan untuk dianalisis atau digunakan sebagai referensi.
 
 Data ini sebenarnya merupakan hal yang sangat luas, contohnya seperti berapa banyak kendaraan yang melewati jalan setiap hari, berapa orang di Indonesia yang memiliki hp, dan lain-lain. Data-data yang telah dikumpulkan ini dapat digunakan untuk berbagai hal, namun perlu dikelola terlebih dahulu menjadi data yang lebih berguna.
 
