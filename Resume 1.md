@@ -1,6 +1,5 @@
 #Pertemuan 1
->Pengantar Data Analytics Essentials
-Pertemuan pertama berisi tentang perkenalan, gambaran umum materi, penilaian, metode belajar, dan materi pertama.
+>Pertemuan pertama Data Analytics Essentials berisi tentang perkenalan, gambaran umum materi, penilaian, metode belajar, dan materi pertama.
 
 # 1. Data 📊
 >Data adalah fakta dan statistik yang dikumpulkan untuk dianalisis atau digunakan sebagai referensi.
@@ -11,10 +10,10 @@ Tingkatan Data:
 
 Wisdom > Knowledge > Information > Data
 
-2. Data Analytics 📈
-Untuk mengelola data tersebut, muncullah data analytics. Data analytics belakangan ini mulai menjadi populer setelah masyarakat mulai menyadari betapa pentingnya data yang baik dan benar.
+# 2. Data Analytics 📈
+>Untuk mengelola data tersebut, muncullah data analytics. Data analytics belakangan ini mulai menjadi populer setelah masyarakat mulai menyadari betapa pentingnya data yang baik dan benar.
 
-Data analytics melewati 6 tahap untuk mengelola data, yaitu:
+# Data analytics melewati 6 tahap untuk mengelola data, yaitu:
 
 Mengerti masalah dan tujuan yang ingin dicapai
 
@@ -28,7 +27,7 @@ Menerjemahkan data
 
 Mempresentasikan temuan data
 
-Tipe-tipe Data Analysis:
+# Tipe-tipe Data Analysis:
 
 Descriptive: Apa yang terjadi?
 
