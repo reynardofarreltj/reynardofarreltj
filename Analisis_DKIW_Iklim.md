@@ -37,10 +37,20 @@ Informasi tersebut kemudian diolah menjadi pengetahuan yang dapat digunakan.
    Dapat dianalisa bahwa kenaikan konsentrasi CO₂ mengakibatkan kenaikan suhu global yang melampaui ambang batas kritis lalu menyebablan laju kenaikan permukaan air laut pada tidak tingkat yang tidak pernah terjadi sebelumnya.
 
 ## 🎯 WISDOM (Kebijaksanaan & Rencana Aksi)
-Berdasarkan data, informasi, dan pengetahuan yang terkumpul, langkah bijak selanjutnya adalah memperkirakan strategi yang tepat untuk menurunkan konsentrasi CO₂ di dunia.
+Berdasarkan data, informasi, dan pengetahuan yang terkumpul, langkah bijak selanjutnya adalah beradaptasi dan memperkirakan strategi yang tepat untuk menurunkan konsentrasi CO₂ di dunia.
 
-### STRATEGI YANG AKAN DILAKUKAN:
-MITIGASI AGRESIF	Menghentikan sumber masalah.	• Hentikan semua investasi baru pada infrastruktur fosil.<br>• Percepat transisi ke energi terbarukan secara eksponensial.<br>• Implementasikan carbon pricing secara global.
-ADAPTASI MENDESAK	Melindungi komunitas dari dampak yang sudah terjadi.	• Bangun infrastruktur tahan iklim (tanggul laut, manajemen air).<br>• Restorasi ekosistem pelindung (mangrove, terumbu karang).<br>• Modernisasi sistem peringatan dini bencana.
+### STRATEGI YANG DAPAT DILAKUKAN:
+1. **MITIGASI AGRESIF**	(Menghentikan sumber masalah)
 
+   • Hentikan semua investasi baru pada infrastruktur fosil.
+   
+   • Percepat transisi ke energi terbarukan secara eksponensial.
+   
+   • Implementasikan carbon pricing secara global. (memberi biaya untuk setiap pengeluaran carbon)
+   
+2. ADAPTASI MENDESAK (Melindungi komunitas dari dampak yang sudah terjadi.)
+   
+   • Bangun infrastruktur tahan iklim (tanggul laut, manajemen air).
+   
+   • Restorasi ekosistem pelindung (mangrove, terumbu karang).
 
