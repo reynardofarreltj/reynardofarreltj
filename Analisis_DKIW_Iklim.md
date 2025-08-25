@@ -1,52 +1,42 @@
-# 🔍 Analisis DKIW: Kondisi Iklim Bumi
+# 🔍 Analisis DKIW: Kondisi Iklim Bumi (2024-2025)
 > Sebuah studi kasus dengan menggunakan **DIKW (Data, Information, Knowledge, Wisdom)** pada data terbaru (2024-2025) untuk menganalisis dan menyusun aksi yang tepat demi memperbaiki iklim bumi.
-
----
-
-## 📊 DATA
-# 🌍 DIKW Analysis: The State of Global Climate (2024-2025 Data)
 
 [![Data Status](https://img.shields.io/badge/Data-2024%2F2025-blue.svg)](https://shields.io/)
 [![Analysis Level](https://img.shields.io/badge/Analysis-Critical-red.svg)](https://shields.io/)
 
-Dokumen ini menyajikan analisis **Data, Information, Knowledge, Wisdom (DIKW)** mengenai krisis iklim global berdasarkan data ilmiah terbaru. Tujuannya adalah untuk mengubah angka-angka kompleks menjadi wawasan yang dapat ditindaklanjuti.
-
 ---
 
-## 📊 DATA · The Raw Numbers
-Data objektif dan terukur yang menjadi fondasi analisis ini.
+## 📊 DATA
+Analisis dimulai dengan data mentah kondisi iklim dunia tahun 2024-2025.
 
-| Indikator Kunci | Nilai Tercatat (2024-2025) | Sumber |
+| Indikator | Data Tercatat (2024-2025) | Sumber/link |
 | :--- | :--- | :--- |
 | **Konsentrasi CO₂** | `427.87 ppm` (Juli 2025) | [NOAA GML](https://gml.noaa.gov/ccgg/trends/) |
-| **Anomali Suhu Global** | `~1.60°C` di atas pra-industri | [Copernicus](https://climate.copernicus.eu/) |
-| **Es Laut Arktik Minimum** | `4.28 juta km²` (Sep 2024) | [NSIDC](https://nsidc.org/arcticseaicenews/) |
+| **Suhu Global** | `~1.60°C` (Rata-rata 2024) | [Copernicus](https://climate.copernicus.eu/) |
+| **Es Laut Arktik yang Cair** | `4.28 juta km²` (Sep 2024) | [NSIDC](https://nsidc.org/arcticseaicenews/) |
 | **Kenaikan Air Laut**| `5.9 mm / tahun` (Laju 2024) | [NASA](https://sealevel.nasa.gov/) |
 
 ---
 
-## 🔍 INFORMATION · Connecting the Dots
-Memberikan konteks pada data mentah untuk mengungkap tren yang signifikan.
+## 🔍 INFORMATION · (Konteks dari Data)
+Dari data mentah kita dapat mengetahui informasi yang lebih bermakna.
 
-> ### 🔴 **Threshold Breached: The 1.5°C Milestone**
-> Tahun 2024 secara resmi menjadi **tahun pertama dalam sejarah** di mana rata-rata pemanasan global melampaui ambang batas kritis `1.5°C`. Ini bukan lagi sebuah prediksi, melainkan sebuah realitas yang tercatat.
+>Tahun 2024 secara resmi menjadi **tahun pertama dalam sejarah** di mana rata-rata pemanasan global (`1.6°C`) melampaui ambang batas kritis `1.5°C`.
 
-> ### 📈 **Alarming Acceleration: Oceans in Overdrive**
-> Laju kenaikan permukaan air laut pada tahun 2024 **hampir 40% lebih cepat dari perkiraan**. Hal ini menandakan pemanasan dan ekspansi lautan terjadi pada tingkat yang belum pernah terjadi sebelumnya.
+>Point kedua yang dapat diketahui dari data tersebut adalah laju kenaikan permukaan air laut pada tingkat yang sebelumnya tidak pernah terjadi, kenaikan permukaan air laut tersebut "40% lebih cepat dari perkiraan"
 
 ---
 
-## 🧠 KNOWLEDGE · Understanding the "Why"
-Menghubungkan informasi untuk membangun pemahaman sebab-akibat dari sistem iklim.
+## 🧠 KNOWLEDGE · (Pengatahuan yang Didapat)
+Informasi tersebut kemudian diolah menjadi pengetahuan yang dapat digunakan.
 
-### The Causal Chain
-Data terbaru ini secara gamblang mengonfirmasi model iklim yang ada. Mekanisme pemanasan global bukan lagi teori, melainkan sebuah proses yang teramati secara *real-time*.
+1. **Mengkonfirmasi Ancaman Besar**
+    Peningkatan suhu dan kenaikan air laut diatas perkiraan mengkonfirmasi bahwa emisi CO₂ yang terus meningkat setiap tahun memiliki dampak yang besar, hal tersebut membuat perubahan iklim bumi bukan hal yang kecil tetapi hal yang dapat mengancam seluruh kehidupan di bumi.
 
-```mermaid
-graph TD
-    A[🔥 Human Activity: Fossil Fuel Emissions] --> B{📈 Rising Atmospheric CO₂};
-    B --> C[🌡️ Enhanced Greenhouse Effect];
-    C --> D{🌍 Global Temperature Rises};
-    D --> E[🧊 Polar Ice Melts];
-    D --> F[🌊 Oceans Warm & Expand];
-    E & F --> G[💧 Sea Level Rises];
+2. **Perubahan Saling Terhubung**
+   Dapat dianalisa bahwa kenaikan konsentrasi CO₂ mengakibatkan kenaikan suhu global yang melampaui ambang batas kritis lalu menyebablan laju kenaikan permukaan air laut pada tidak tingkat yang tidak pernah terjadi sebelumnya.
+
+### STRATEGI YANG AKAN DILAKUKAN:
+
+
+
