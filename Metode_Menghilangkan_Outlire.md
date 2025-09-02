@@ -59,3 +59,4 @@ Menggunakan data yang sama: `[65, 70, 72, 75, 78, 80, 82, 85, 90, 150]`
 **Kesimpulan:** Dalam kasus ini, Z-Score `2.58` tidak melewati ambang batas 3. Ini menunjukkan salah satu kelemahan Z-Score: nilai rata-rata dan simpangan baku itu sendiri terpengaruh oleh *outlier*, sehingga terkadang bisa "menyamarkan" *outlier* tersebut. Maka secara umum metode *IQR* dapat lebih diandalkan
 
 ---
+##Contoh menggunakan metode IQR dengan sumber http://kaggle.com/datasets/drahulsingh/best-selling-manga
