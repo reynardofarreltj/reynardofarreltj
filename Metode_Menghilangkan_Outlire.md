@@ -38,7 +38,7 @@ Angka `150` terlihat mencurigakan. Mari kita buktikan dengan IQR.
     * Batas Atas: `85 + (1.5 * 13) = 85 + 19.5 = 104.5`
 
 contoh dalam bentuk visualisasi:
-<img width="1500" height="500" alt="image" src="https://github.com/user-attachments/assets/2438305b-7a38-41a0-93ab-6fabcf86ed57" />
+<img width="503" height="500" alt="outlier_detection_plot" src="https://github.com/user-attachments/assets/5b09eed5-740a-47d9-bb41-12ac5c2fad43" />
 
 
 **Kesimpulan:** Karena nilai `150` berada di atas batas atas (`104.5`), maka **150 adalah outlier**.
